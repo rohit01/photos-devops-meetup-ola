@@ -1,0 +1,2 @@
+AWS managed services to create serverless applications
+Chandra at his usual best!
